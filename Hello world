@@ -3,7 +3,13 @@
 using namespace std;
 
 void main()
+void print()
 {
-cout<<"Hello world"<<endl;
+    cout << "moew";
+}
 
+void main()
+{
+    cout<<"Hello world"<<endl;
+    cout << "\nMeow";
 }
