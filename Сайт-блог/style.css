@@ -1,0 +1,11 @@
+body{background:"photo.png"; margin:0; padding:0;
+font: 20px/30px courier, Tahoma, sans-serif;}
+a{text-decoration: none;}
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto;}
+div.header{height: 70px; background: #B8FFFA;}
+
+/*шапка сайта*/
+div.topmenu{float: right; height: 70 px; line-height: 70px;}
+div.topmenu a{margin: 0 0 0 10px; color: black; }
+div.topmenu a:hover {color: red} /*эти стили только при наведелении
