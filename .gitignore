@@ -11,3 +11,8 @@
 
 pkg/
 src/
+.vscode/settings.json
+Сайт-блог/index.html
+Сайт-блог/style.css
+*.html
+*.css
