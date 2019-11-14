@@ -4,7 +4,7 @@ a{text-decoration: none;}
 /* Структура сайта
 div.mid{width: 1000px; margin: 0 auto;}
 div.header{height: 70px; background: #B8FFFA;} */
-
+div.main2{height: 200px; width: 200px; font-size: 20px}
 /* шапка сайта
 div.topmenu{float: right; height: 70 px; line-height: 70px;}
 div.topmenu a{margin: 0 0 0 10px; color: black; }
