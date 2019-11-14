@@ -15,7 +15,7 @@ ul {
     display: block;
     margin: auto;
     padding: 0;
-    list-style: none;  
+    list-style: none;
 }
 
 ul:after {
@@ -26,13 +26,17 @@ ul:after {
 }
 ul.menu > li {
     float: left;
+    font-weight: normal;
     position: relative;
+    font-size:25px;
     list-style-type: none;
 }
 ul.menu > li > a {
     display: block;
     padding: 10px;
     color: black;
+    font-weight: 600;
+    font-size: 32px;
     background-color: none;
     text-decoration: none;
     margin: 0 0 0 10px;
