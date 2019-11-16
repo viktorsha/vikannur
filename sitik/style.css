@@ -136,9 +136,6 @@ footer{
 .social{
     flex-basis: 30%;
 }
-.change-col a:hover{
-    color: rgb(171, 185, 187);
-}
 .social .icon{
     height: 50px; /*почему-то не работает auto */
     width: 50px;
@@ -180,6 +177,7 @@ header img{
 
 #wrap{
     background: #D8E3AB url(palm.png) no-repeat 5% 50%;
+<<<<<<< HEAD
 
 }
 .article{
@@ -221,4 +219,6 @@ header img{
     font-size: 15px;
     margin-left: 10px;
     margin-right: 10px;
+=======
+>>>>>>> parent of 99c8e4f... murr
 }
